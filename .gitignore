@@ -1,0 +1,11 @@
+*
+!.gitignore
+!GPUPlugin/*
+!GPUPlugin/fastjet/*
+!GPUPlugin/cuda/*
+!README
+!Makefile
+
+!*/
+
+fastjet-*
