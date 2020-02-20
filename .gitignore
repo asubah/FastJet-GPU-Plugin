@@ -5,6 +5,7 @@
 !GPUPlugin/cuda/*
 !README
 !Makefile
+!test.cc
 
 !*/
 
